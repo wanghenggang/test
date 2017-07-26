@@ -1,3 +1,3 @@
 <?php
 
-'feature 1';
+'feature 0';
