@@ -1,0 +1,19 @@
+{
+    "name": "trango/test",
+    "description": "des",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Trango Wang",
+            "email": "313582158@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Trango\\": "src/test"
+        }
+    }
+}
