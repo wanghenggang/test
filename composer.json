@@ -1,0 +1,19 @@
+{
+    "name": "trango/test.git",
+    "description": "this is a test file desc",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wanghenggang",
+            "email": "313582158@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Trango\\Test\\": "src/Trango/Test"
+        }
+    }
+    }

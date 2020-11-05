@@ -1,3 +1,7 @@
 <?php
 
-echo 'this ia a test file';
+require_once './vendor/autoload.php';
+
+use Trango\Test\Test;
+
+echo Test::cc();
