@@ -1,5 +1,5 @@
 <?php
-namespace Trango;
+namespace \Trango\Test;
 
 class cc{
   public static function test(){
